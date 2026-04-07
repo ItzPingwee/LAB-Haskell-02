@@ -10,7 +10,7 @@ Retrospectiva
 1) En mi caso a este laboratorio le dedique aproximadamente unas 5 horas, aproximadamente una hora por punto.
 2) El estado actual del laboratorio es finalizado, por que se cumplieron los lineamientos y lo esperado por cada punto. 
 3) En mi caso, el mayor logro entender el funcionamiento detras de este tipo de programacion, y aprenderlo a manejar.
-4) El mayor problema tecnico en mi caso fue tal vez el tema de las simplificaciones lambda y eso, ademas del tema que era como retornar una funcion o utilizar una funcion dentro de otra me parecio complicado
+4) El mayor problema tecnico en mi caso fue tal vez el tema de las simplificaciones lambda y eso, ademas del tema que era como retornar una funcion o utilizar una funcion dentro de otra me parecio complicado, ademas los archivos no se me guardaron incialmente
 5) En mi caso, con mis compañeros estuvimos abiertos a escuchar las dificultades de cada uno y ver como podemos ayudarnos entre nosotros para superar esas dificultades.
 
 6) Referencias
